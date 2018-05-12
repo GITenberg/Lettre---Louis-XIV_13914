@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3810
     wikipedia: http://en.wikipedia.org/wiki/François_Fénelon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13914#Lettre---Louis-XIV
 gutenberg_bookshelf: FR Politique
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
